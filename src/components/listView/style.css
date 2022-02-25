@@ -1,0 +1,11 @@
+.list-view-container{
+    width: 100%;
+    height: 100%;
+    overflow: scroll;
+
+}
+.list-view{
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+}

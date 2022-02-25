@@ -1,0 +1,20 @@
+.layout-container{
+    display: flex;
+    background-image: url(/public/liquid-cheese.svg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    justify-content: center;
+    align-items: center;
+    width: 100wv;
+    height: 100vh;
+}
+.componets-container{
+    display: flex;
+    background: #f5f8fa;
+    width: 80%;
+    height: 90%;
+    border-radius: 10px;
+    border: 1px solid #dcdfe1;
+    overflow: hidden;
+    padding: 20px;
+}

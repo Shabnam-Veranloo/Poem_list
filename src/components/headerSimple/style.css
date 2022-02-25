@@ -1,0 +1,14 @@
+.header-container{
+    display: flex;
+    justify-content:space-between;
+    max-height: 100px;
+    width: 95%;
+    padding: 20px 0px;
+    margin: auto;
+    font-weight: 700;
+
+}
+.icon-box-back{
+    margin-right: 20px;
+    cursor: pointer;
+}
